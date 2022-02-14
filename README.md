@@ -12,7 +12,9 @@ This would be a documentation of my MIPS learning journey, rather than a guideli
   </div>
  
 <div id="pro">
+ 
 ## Projects
   * Hamming Distance Circuit
     * Full Adder && Full Substractor
   * Left, Right, Circular Shifter
+ </div>
